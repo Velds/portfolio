@@ -73,7 +73,7 @@ section{
 }
 
 .timeline-section{
-  height: 100%;
+  height: auto;
 }
 
 
@@ -471,7 +471,7 @@ header .menu-bar{
     cursor: pointer;
     z-index: 5000;
   }
-
+  
 }
 
 /* @media(max-width: 1024px){
